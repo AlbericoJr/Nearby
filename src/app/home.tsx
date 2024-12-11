@@ -7,4 +7,4 @@ export default function Home() {
   )
 }
 
-// https://youtu.be/lsOLhrDEDxw?si=2pEUGEP6j3fL8WL_
+// https://youtu.be/lsOLhrDEDxw?si=2pEUGEP6j3fL8WL_ 29:38
